@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        iframe {
+            margin-top: 20px;
+            border: none;
+            width: 100%;
+            max-width: 600px;
+            height: 100px;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Escucha nuestra radio en línea
+    </header>
+    <iframe src="https://stream.zeno.fm/6nugf8s0nukvv" allow="autoplay"></iframe>
+    <footer>
+        © 2024 - Transmisión en vivo desde Zeno.FM
+    </footer>
+</body>
+</html>
+
